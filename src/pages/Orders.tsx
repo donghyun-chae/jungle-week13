@@ -37,7 +37,6 @@ const Orders = () => {
 
   const onClickHandler = (id) => {
     async function deleteOrder(id) {
-      console.log(id);
       const response = await fetch(`http://localhost:3000/orders/${id}`, {
         method: "DELETE",
         headers: {

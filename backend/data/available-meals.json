@@ -1,0 +1,22 @@
+[
+  {
+    "id": "m1",
+    "name": "닭다리",
+    "image": "images/chicken.jpeg"
+  },
+  {
+    "id": "m2",
+    "name": "미니 약과",
+    "image": "images/samlip.jpeg"
+  },
+  {
+    "id": "m3",
+    "name": "빅파이",
+    "image": "images/bigpie.jpeg"
+  },
+  {
+    "id": "m4",
+    "name": "쌀과자",
+    "image": "images/rice.jpeg"
+  }
+]
